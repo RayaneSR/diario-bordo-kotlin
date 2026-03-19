@@ -3,17 +3,13 @@
 
 Este repositório contém meu progresso nos estudos de programação utilizando Kotlin.
 
-## Conteúdo
+# Conteúdo
 - Exercícios práticos
 - Desafios de lógica
 - Pequenos projetos
 
-## 🚀 Objetivo
+# Objetivo 
 Desenvolver habilidades em programação e me preparar para oportunidades como desenvolvedora.
 
-## Tecnologia
+# Tecnologia
 - Kotlin
-
-## 📅 Progresso
-- Dia 01: Fun, Loops (for) , If/else
-- Dia 02: Arrays, Loops (for), If/else
